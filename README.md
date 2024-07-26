@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @piyush-89
-- 👀 I’m interested in Data Analysis, Data Visualization, Data Mining
+- 👀 I’m interested in Software Development(Backend)
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
